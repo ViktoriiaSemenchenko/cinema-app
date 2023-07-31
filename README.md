@@ -49,17 +49,16 @@ with your own URL, username, password and JDBC driver
 ![pic](pictures/readme/Properties_Setup.png)
 4. Configure Tomcat server
    * Edit Configuration
-![pic](pictures/readme/Edit_Configurations.png)
+   * ![pic](pictures/readme/Edit_Configurations.png)
    * Add New Configuration
-![pic](pictures/readme/Edit_Configurations.png)
+   * ![pic](pictures/readme/Edit_Configurations.png)
    * Tomcat Server
    * Local
-![pic](pictures/readme/Tomcat_Local.png)
+   * ![pic](pictures/readme/Tomcat_Local.png)
    * Setup deployment configurations
-![pic](pictures/readme/Setup_Deployment_Configurations.png)
-![pic](pictures/readme/Setup_Deployment_Configurations2.png)
-   
-   
+   * ![pic](pictures/readme/Setup_Deployment_Configurations.png)
+   * ![pic](pictures/readme/Setup_Deployment_Configurations2.png)
+
 5. Run and enjoy the program! 
 An admin user with login: "admin@gmail.com" 
 and password: "admin123" is already provided 
